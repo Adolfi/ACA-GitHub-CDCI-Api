@@ -8,7 +8,7 @@ namespace ACA_GitHub_CDCI_Api.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Testing2", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Testing3", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
