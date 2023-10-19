@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ACA-GitHub-CDCI-Api.props" />
+</Project>

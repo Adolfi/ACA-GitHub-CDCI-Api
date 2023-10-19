@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACA-GitHub-CDCI-Api.props" />
+</Project>
